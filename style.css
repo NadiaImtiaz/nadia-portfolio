@@ -643,7 +643,7 @@ color:#111;
   text-align:center;
   background:
   linear-gradient(rgba(10,10,26,.82),rgba(10,10,26,.92)),
-  url("images/portfolio-bg.jpg");
+  url("portfolio-bg.png");
   background-size:cover;
   background-position:center;
 }
@@ -761,7 +761,7 @@ color:#111;
 
     background-image:
     linear-gradient(rgba(10,10,25,.75),rgba(10,10,25,.75)),
-    url("./img/portfolio-bg.png");
+    url("portfolio-bg.png");
 
     background-size:cover;
     background-position:center;
